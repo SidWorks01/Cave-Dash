@@ -30,7 +30,7 @@ As soon as the Program runs, The game Starts:
 
 ![Game Started, Point Added](Project.png)
 
-Move your finger and Earn Points , After every 2 scores , speed increases , As soon as you an obstacle , Game ends with a  message "Game over , you can play again with 'r' " 
+Move your finger and Earn Points , After every 2 scores , speed increases , As soon as you an obstacle , Game ends with a  message "Game over , you can play again by pressing 'r' key " 
 
 ![Game ended , Obstacle Hit](Project1.png)
 
