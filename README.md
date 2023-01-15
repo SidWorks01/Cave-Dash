@@ -43,6 +43,12 @@ Move your finger and Earn Points , After every 2 scores , speed increases , As s
 
 ![Game ended , Obstacle Hit](Project1.png)
 
+### Working
+The Project firstly tracks your hands , stores its landmarks and and works according to following parameters:
+-Generation frequency of Objects
+-Creating points and Obstacle objects and removing it dynamically
+-Checking if Obstacles 
+
 ### What's different about us:
 -Our code is Easy to Read and Beginner Friendly
 -We used limited modules and did not use any user-defined modules. Simply due to the reason that we wanted to write all the code from Scratch.
