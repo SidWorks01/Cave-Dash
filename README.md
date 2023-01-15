@@ -37,7 +37,7 @@ After the installation is complete, run the main.py file.
 ### Usage
 As soon as the Program runs, The game Starts:
 
-![Game Started, Point Added](file:///Users/siddhantgupta/Downloads/Project.png)
+![Game Started, Point Added](Project.png)
 
 Move your finger and Earn Points , After every 2 scores , speed increases , As soon as you an obstacle , Game ends with a  message "Game over , you can play again with 'r' " 
 
