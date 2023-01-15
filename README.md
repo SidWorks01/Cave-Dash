@@ -11,8 +11,6 @@ Figuring out the landmarks of the index finger and patterns of the user and how 
 We ran into multiple bugs such as the orientation of objects, Overlaying, and implementing the said intent of the game.
 It took a while for us to debug the said Errors but we did not give up.
 
-We ran into challenges every step of the way while using not so beginner-friendly python libraries. Figuring out, landmarks and their correlation with chord shapes. Then identifying and analysing hands separately and the strumming patterns of the user. Fixing lags between output and input to give a real-time flawless experience.
-
 
 ### Installation
 The installation process will recquire the following pre-requisites to be installed first 
