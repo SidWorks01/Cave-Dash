@@ -2,7 +2,7 @@
 ## Cave-Dash
 ### **Project Description**
 
-The Problem Cave-Dash Solves:
+### The Problem Cave-Dash Solves:
 Cave-Dash is a game that uses Hand Detection Technology and Python. It Provides an interactive game for its users through Computer vision and numpy.
 It surely gets addictive once you get hooked on it.
 
@@ -37,7 +37,7 @@ After the installation is complete, run the main.py file.
 ### Usage
 As soon as the Program runs, The game Starts:
 
-![Game Started, Point Added](Project.png)
+![Game Started, Point Added](file:///Users/siddhantgupta/Downloads/Project.png)
 
 Move your finger and Earn Points , After every 2 scores , speed increases , As soon as you an obstacle , Game ends with a  message "Game over , you can play again with 'r' " 
 
@@ -55,4 +55,4 @@ The Project firstly tracks your hands , stores its landmarks and and works accor
 ### What's different about us:
 -Our code is Easy to Read and Beginner Friendly
 -We used limited modules and did not use any user-defined modules. Simply due to the reason that we wanted to write all the code from Scratch.
--We tried to implement ML algorithms to Smartly Generate the required objects
+-We can implement ML algorithms and Neural Networks to Smartly Generate the required Obstacles and Points for a harder game.
