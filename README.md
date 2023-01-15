@@ -13,13 +13,6 @@ It took a while for us to debug the said Errors but we did not give up.
 
 We ran into challenges every step of the way while using not so beginner-friendly python libraries. Figuring out, landmarks and their correlation with chord shapes. Then identifying and analysing hands separately and the strumming patterns of the user. Fixing lags between output and input to give a real-time flawless experience.
 
-### Future Scope of this Project:
-
-We wanted to implement many other features. Some of them are:
--Dynamic Overlaying Images of the objects like Stars on "Circle Points", Spaceship on "Index Point" and Comets on "Barriers"
--Hand Gesture Feature which implements jumping/pummelling 
-via Opening and Closing of the Wrists
--Feature of "Levels ", "Maps", and "Hardness"(Easy/medium/hard)
 
 ### Installation
 The installation process will recquire the following pre-requisites to be installed first 
@@ -55,4 +48,12 @@ The Project firstly tracks your hands , stores its landmarks and and works accor
 ### What's different about us:
 -Our code is Easy to Read and Beginner Friendly
 -We used limited modules and did not use any user-defined modules. Simply due to the reason that we wanted to write all the code from Scratch.
--We can implement ML algorithms and Neural Networks to Smartly Generate the required Obstacles and Points for a harder game.
+
+### Future Scope of this Project:
+
+We wanted to implement many other features. Some of them are:
+-Dynamic Overlaying Images of the objects like Stars on "Circle Points", Spaceship on "Index Point" and Comets on "Barriers"
+-Hand Gesture Feature which implements jumping/pummelling 
+via Opening and Closing of the Wrists
+-Feature of "Levels ", "Maps", and "Hardness"(Easy/medium/hard)
+--We can implement ML algorithms and Neural Networks to Smartly Generate the required Obstacles and Points for a harder game.
