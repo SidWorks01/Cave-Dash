@@ -37,11 +37,11 @@ After the installation is complete, run the main.py file.
 ### Usage
 As soon as the Program runs, The game Starts:
 
-![Game Started, Point Added](Project.png)
+![Game Started, Point Added](Project SyntaxError/Project.png)
 
 Move your finger and Earn Points , After every 2 scores , speed increases , As soon as you an obstacle , Game ends with a  message "Game over , you can play again with 'r' " 
 
-![Game ended , Obstacle Hit](Project1.png)
+![Game ended , Obstacle Hit](Project SyntaxError/Project1.png)
 
 ### Working
 
