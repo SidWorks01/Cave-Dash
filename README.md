@@ -1,6 +1,6 @@
 # Syntax-Error 2023
 ## Cave-Dash
-###**Project Description**
+### **Project Description**
 
 The Problem Cave-Dash Solves:
 Cave-Dash is a game that uses Hand Detection Technology and Python. It Provides an interactive game for its users through Computer vision and numpy.
@@ -44,10 +44,13 @@ Move your finger and Earn Points , After every 2 scores , speed increases , As s
 ![Game ended , Obstacle Hit](Project1.png)
 
 ### Working
+
 The Project firstly tracks your hands , stores its landmarks and and works according to following parameters:
 -Generation frequency of Objects
 -Creating points and Obstacle objects and removing it dynamically
--Checking if Obstacles 
+-Checking if Obstacles are hit or not
+-Counting points and updating the objects in real time
+-Increasing Speed of the Game as the it Progresses
 
 ### What's different about us:
 -Our code is Easy to Read and Beginner Friendly
